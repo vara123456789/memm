@@ -1,0 +1,814 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ord",
+				"order"
+			],
+			[
+				"max-",
+				"max-height\tproperty"
+			],
+			[
+				"te",
+				"textarea"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"TAL",
+				"TALKME_TOKEN"
+			],
+			[
+				"mes",
+				"messages_dateTime"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"no_",
+				"no_task"
+			],
+			[
+				"me",
+				"messages_count"
+			],
+			[
+				"role",
+				"role"
+			],
+			[
+				"Role",
+				"RoleUser"
+			],
+			[
+				"roles",
+				"roles"
+			],
+			[
+				"perm",
+				"permissions"
+			],
+			[
+				"per",
+				"permissions"
+			],
+			[
+				"Rol",
+				"RoleUser"
+			],
+			[
+				"count",
+				"countLeft"
+			],
+			[
+				"coun",
+				"countLeft"
+			],
+			[
+				"limi",
+				"limitExceeded"
+			],
+			[
+				"li",
+				"limitExceeded"
+			],
+			[
+				"create",
+				"managerCreateModal"
+			],
+			[
+				"uni",
+				"university_id"
+			],
+			[
+				"base",
+				"base64"
+			],
+			[
+				"em",
+				"emailChange"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"ru",
+				"ru5oil"
+			],
+			[
+				"reci",
+				"recipient_id"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"ext_",
+				"ext_return"
+			],
+			[
+				"pric",
+				"pricelist"
+			],
+			[
+				"activa",
+				"activated_at"
+			],
+			[
+				"pricel",
+				"Pricelist"
+			],
+			[
+				"unre",
+				"unreadMessages"
+			],
+			[
+				"order",
+				"order_id"
+			],
+			[
+				"_",
+				"_this"
+			],
+			[
+				"to",
+				"_token"
+			],
+			[
+				"daa",
+				"data"
+			],
+			[
+				"e",
+				"ellipsis\ttext-overflow"
+			],
+			[
+				"un",
+				"university_id"
+			],
+			[
+				"univ",
+				"university_id"
+			],
+			[
+				"A",
+				"Admin"
+			],
+			[
+				"Ins",
+				"Instruction"
+			],
+			[
+				"InstructionS",
+				"InstructionSection"
+			],
+			[
+				"da",
+				"datetime"
+			],
+			[
+				"qu",
+				"questions"
+			],
+			[
+				"univer",
+				"university"
+			],
+			[
+				"type",
+				"type_work"
+			],
+			[
+				"ins",
+				"instruction_subsections"
+			],
+			[
+				"data-",
+				"data-user-id"
+			],
+			[
+				"typ",
+				"type_work"
+			],
+			[
+				"add",
+				"additionalFieldValues"
+			],
+			[
+				"wor",
+				"work_d1"
+			],
+			[
+				"fom",
+				"form-control"
+			],
+			[
+				"modal",
+				"tableSettingsModal"
+			],
+			[
+				"data",
+				"datatable"
+			],
+			[
+				"remov",
+				"removeClass"
+			],
+			[
+				"wo",
+				"workingTimeSave"
+			],
+			[
+				"Re",
+				"Response"
+			],
+			[
+				"or",
+				"order_id"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"reque",
+				"request"
+			],
+			[
+				"Passwo",
+				"PasswordReset"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"unv",
+				"university_name"
+			],
+			[
+				"unveruse",
+				"UniversityUser"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 1531,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1634,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instak",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/sergey/dev/coddy"
+	],
+	"file_history":
+	[
+		"/home/sergey/.cache/.fr-Ke02G6/Titan-master/index_mp_classic_flexslider.html",
+		"/home/sergey/dev/webstrela/resources/views/portfolio.blade.php",
+		"/home/sergey/dev/webstrela/routes/web.php",
+		"/home/sergey/dev/webstrela/resources/views/welcome.blade.php",
+		"/home/sergey/.cache/.fr-CBm6r1/Titan-master/index.html",
+		"/home/sergey/dev/c7m/database/migrations/2019_10_05_184742_create_support_contacts_table.php",
+		"/home/sergey/dev/c7m/public/js/admin/app.js",
+		"/home/sergey/dev/c7m/resources/views/admin/orders/order.blade.php",
+		"/home/sergey/dev/c7m/app/Http/Controllers/Admin/OrdersController.php",
+		"/home/sergey/dev/c7m/resources/views/admin/orders/show.blade.php",
+		"/home/sergey/dev/c7m/public/js/admin/orders.js",
+		"/home/sergey/dev/c7m/public/js/admin/support2.js",
+		"/home/sergey/dev/c7m/public/css/custom_app.css",
+		"/home/sergey/dev/c7m/resources/views/admin/layouts/scripts.blade.php",
+		"/home/sergey/dev/c7m/app/Exceptions/Handler.php",
+		"/home/sergey/dev/c7m/.env",
+		"/home/sergey/dev/c7m/app/Http/Controllers/Api/AuthController.php",
+		"/home/sergey/dev/c7m/resources/views/admin/layouts/sidebar.blade.php",
+		"/home/sergey/dev/c7m/resources/views/admin/layouts/htmlheader.blade.php",
+		"/home/sergey/dev/c7m/resources/views/admin/support/show2.blade.php",
+		"/home/sergey/dev/c7m/app/Http/Controllers/Admin/UsersController.php",
+		"/home/sergey/dev/c7m/app/Http/Controllers/Admin/ManagersController.php",
+		"/home/sergey/dev/c7m/app/Http/Controllers/Api/TalkmeController.php",
+		"/home/sergey/.cache/.fr-8oTinZ/Titan-master/index_landing.html",
+		"/home/sergey/dev/c7m/routes/api.php",
+		"/home/sergey/dev/c7m/routes/web.php",
+		"/home/sergey/dev/c7m/app/Http/Controllers/Admin/DashboardController.php",
+		"/home/sergey/dev/c7m/app/Http/Controllers/Admin/SupportController.php",
+		"/etc/xdg/autostart/indicator-application.desktop",
+		"/run/user/1000/gvfs/sftp:host=94.176.233.246,port=34297,user=crmuserftp/crmsite/storage/logs/laravel-2019-11-02.log",
+		"/run/user/1000/gvfs/sftp:host=94.176.233.246,port=34297,user=crmuserftp/crmsite/.env",
+		"/home/sergey/dev/c7m/resources/views/admin/instructions/show.blade.php",
+		"/home/sergey/dev/c7m/app/Http/Controllers/Admin/TemplatesController.php",
+		"/home/sergey/dev/c7m/public/js/admin/templates.js",
+		"/home/sergey/dev/c7m/app/Api/Support.php",
+		"/run/user/1000/gvfs/sftp:host=94.176.233.246,port=34297,user=crmuserftp/crmsite/storage/logs/laravel-2019-11-01.log",
+		"/home/sergey/dev/c7m/app/Http/Middleware/Api/AccessToken.php",
+		"/run/user/1000/gvfs/ftp:host=194.67.208.175/www/h9143.lk3.ru/youdo/YoudoClass.php",
+		"/home/sergey/dev/c7m/resources/views/admin/templates/show.blade.php",
+		"/run/user/1000/gvfs/ftp:host=194.67.208.175/www/h9143.lk3.ru/youdo/1frowiyhA_wmRPOW_59CjPjP8uAQJzD1toEYsexfxxUc/cacheTasks24_Москва.dat",
+		"/run/user/1000/gvfs/ftp:host=194.67.208.175/www/h9143.lk3.ru/youdo/12_GOJO-zwJJjAdQZhwe21AyYR5Cvh92jQLwVo7Canx8/cacheTasksPage.dat",
+		"/home/sergey/dev/c7m/resources/views/emails/1/forgot.blade.php",
+		"/home/sergey/dev/c7m/resources/views/emails/1/change.blade.php",
+		"/home/sergey/dev/c7m/resources/views/admin/history/show.blade.php",
+		"/home/sergey/dev/c7m/public/js/admin/history.js",
+		"/home/sergey/dev/c7m/app/Http/Controllers/Admin/HistoryController.php",
+		"/home/sergey/dev/c7m/app/Http/Controllers/Api/OrdersController.php",
+		"/home/sergey/dev/c7m/app/Providers/Api/LoggerServiceProvider.php",
+		"/home/sergey/dev/c7m/app/Http/Controllers/Api/InstructionsController.php",
+		"/home/sergey/dev/c7m/public/js/admin/pages.js",
+		"/home/sergey/dev/c7m/app/Http/Controllers/Api/AccountController.php",
+		"/home/sergey/dev/c7m/public/js/admin/invoices.js",
+		"/home/sergey/dev/c7m/resources/views/admin/history/invoices.blade.php",
+		"/home/sergey/dev/c7m/app/Http/Controllers/Api/TestsController.php",
+		"/home/sergey/dev/rusoil/manifest.json",
+		"/home/sergey/dev/c7m/resources/views/vendor/mail/html/message.blade.php",
+		"/home/sergey/dev/c7m/resources/views/vendor/mail/html/button.blade.php",
+		"/home/sergey/dev/c7m/resources/views/vendor/notifications/email.blade.php",
+		"/home/sergey/dev/c7m/database/migrations/2019_10_06_215626_create_tests_table.php",
+		"/home/sergey/Yandex.Disk/Диск 2.0/CODDY/memes/style.css",
+		"/home/sergey/dev/c7m/app/Http/Controllers/Api/MessagesController.php",
+		"/home/sergey/dev/c7m/app/User.php",
+		"/home/sergey/dev/c7m/resources/views/admin/users/show.blade.php",
+		"/home/sergey/dev/c7m/resources/views/admin/rates/show.blade.php",
+		"/home/sergey/Загрузки/Telegram Desktop/3(!) (2).htm",
+		"/home/sergey/.cache/.fr-eFi5fI/1/1.htm",
+		"/home/sergey/.cache/.fr-2COy8x/1/3.htm",
+		"/home/sergey/.cache/.fr-UlRhVZ/1/2.htm",
+		"/home/sergey/Загрузки/Telegram Desktop/3(!) (4).htm",
+		"/home/sergey/.cache/.fr-GrE1Pr/2/4(!).htm",
+		"/home/sergey/.cache/.fr-egAxNo/2/3(!).htm",
+		"/home/sergey/.cache/.fr-TXtt5I/2/2(!).htm",
+		"/home/sergey/.cache/.fr-GzRk1r/2/1.htm",
+		"/home/sergey/.cache/.fr-5X5AV4/1/¥§ã«ìâ âë1.htm",
+		"/home/sergey/.cache/.fr-YfaFz9/1/10(!).htm",
+		"/home/sergey/.cache/.fr-dJGwki/1/9(ü).htm",
+		"/home/sergey/.cache/.fr-ccou1X/1/8(!).htm",
+		"/home/sergey/.cache/.fr-HT0zrf/1/7.htm",
+		"/home/sergey/.cache/.fr-M7rrxh/1/6.htm",
+		"/home/sergey/dev/c7mus.loc/www/app/Http/Controllers/Api/AccountController.php",
+		"/home/sergey/dev/c7mus.loc/www/app/Http/Controllers/Admin/CalendarController.php",
+		"/home/sergey/dev/c7mus.loc/www/app/Http/Controllers/Api/TestsController.php",
+		"/home/sergey/Загрузки/Telegram Desktop/2(!).htm",
+		"/home/sergey/dev/c7mus.loc/www/app/Http/Controllers/Admin/PricelistController.php",
+		"/home/sergey/dev/c7mus.loc/www/app/Admin/RoleUser.php",
+		"/home/sergey/.cache/.fr-xiYSVL/3/2(!).htm",
+		"/home/sergey/.cache/.fr-I7KyqO/1/1.htm",
+		"/home/sergey/dev/c7mus.loc/www/public/js/admin/managers.js",
+		"/home/sergey/dev/c7mus.loc/www/resources/views/admin/managers/show.blade.php",
+		"/home/sergey/dev/c7mus.loc/www/app/Http/Controllers/Admin/DashboardController.php",
+		"/home/sergey/dev/c7mus.loc/www/app/Http/Controllers/Admin/ManagersController.php",
+		"/home/sergey/dev/c7mus.loc/www/app/Admin/UniversityUser.php",
+		"/home/sergey/dev/c7mus.loc/www/app/User.php",
+		"/home/sergey/dev/c7mus.loc/www/app/Providers/Api/LoggerServiceProvider.php",
+		"/home/sergey/dev/c7mus.loc/www/resources/views/emails/change.blade.php",
+		"/home/sergey/dev/c7mus.loc/www/app/Mail/ChangeMail.php",
+		"/home/sergey/Загрузки/Telegram Desktop/3(!).htm",
+		"/home/sergey/.cache/.fr-jrSgHJ/8.html",
+		"/home/sergey/dev/c7mus.loc/www/public/js/admin/pricelist.js",
+		"/home/sergey/dev/c7mus.loc/www/resources/views/admin/pricelist/show.blade.php",
+		"/home/sergey/.cache/.fr-TW5HgH/9.html",
+		"/home/sergey/dev/c7mus.loc/www/database/migrations/2019_10_06_215626_create_tests_table.php",
+		"/home/sergey/dev/c7mus.loc/www/resources/views/admin/faq/show.blade.php",
+		"/home/sergey/dev/c7mus.loc/www/app/Api/AccessToken.php",
+		"/home/sergey/dev/c7mus.loc/www/public/js/cm_mode/htmlmixed/htmlmixed.js",
+		"/home/sergey/Документы/rusoil.help/js/popup.js",
+		"/home/sergey/Документы/rusoil.help/manifest.json",
+		"/home/sergey/.cache/.fr-HwueL4/codemirror-5.49.0/lib/codemirror.css",
+		"/home/sergey/dev/c7mus.loc/www/public/js/cm_mode/htmlembedded/htmlembedded.js",
+		"/home/sergey/dev/c7mus.loc/www/public/js/admin/templates.js",
+		"/home/sergey/dev/c7mus.loc/www/public/js/codemirror.js",
+		"/home/sergey/dev/c7mus.loc/www/public/js/cm_mode/markdown/markdown.js",
+		"/home/sergey/.cache/.fr-gEcPzC/codemirror-5.49.0/lib/codemirror.js",
+		"/home/sergey/dev/c7mus.loc/www/public/js/admin/pages.js",
+		"/home/sergey/dev/c7mus.loc/www/public/js/cm_mode/xml/xml.js",
+		"/home/sergey/dev/c7mus.loc/www/database/migrations/2019_09_06_121954_create_access_tokens_table.php",
+		"/home/sergey/dev/c7mus.loc/www/resources/views/admin/pages/show.blade.php",
+		"/home/sergey/dev/c7mus.loc/www/public/css/codemirror.css",
+		"/home/sergey/dev/c7mus.loc/www/public/js/cm_mode/javascript/javascript.js",
+		"/home/sergey/dev/c7mus.loc/www/resources/views/admin/templates/show.blade.php",
+		"/home/sergey/dev/c7mus.loc/www/app/Api/EmailChange.php",
+		"/home/sergey/dev/c7mus.loc/www/database/migrations/2019_10_12_230232_create_email_changes_table.php",
+		"/home/sergey/dev/c7mus.loc/www/resources/views/emails/forgot.blade.php",
+		"/home/sergey/dev/c7mus.loc/www/app/Http/Controllers/Api/AuthController.php",
+		"/home/sergey/dev/c7mus.loc/www/app/Http/Controllers/Api/EmailController.php",
+		"/home/sergey/dev/c7mus.loc/www/routes/api.php",
+		"/home/sergey/dev/c7mus.loc/www/app/Api/Test.php",
+		"/home/sergey/dev/c7mus.loc/www/app/Mail/ForgotMail.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"div",
+			"our",
+			"ModelNotFoundException",
+			"try",
+			"NotFoundHttpException",
+			"расценки",
+			"pages",
+			"alerts",
+			"pricelist",
+			"notifications",
+			"instructions",
+			"Skins",
+			"200",
+			"university_user",
+			"count_unread",
+			"sortable: true",
+			"sortable",
+			"primary",
+			"orders",
+			"where",
+			"support",
+			"loading",
+			"aside_hide",
+			"aside",
+			"write_msg",
+			"stringify",
+			"hash",
+			"format",
+			"$request->input('message.dateTime')",
+			"contacts",
+			"support",
+			"contactText",
+			"loader",
+			"page",
+			"current_page",
+			"messages_dateTime",
+			"regis",
+			"С",
+			"19",
+			"table",
+			"phone",
+			"clientId",
+			"login",
+			"action",
+			"APP_ADMIN_URL",
+			"editor",
+			"data",
+			"history",
+			"pricelist",
+			"user_id",
+			"rand",
+			"10",
+			"apiResponse",
+			"getLast",
+			"getLast3",
+			"getLast",
+			"$timing",
+			"n get",
+			"get",
+			"instructions",
+			"get(",
+			"InstructionsController",
+			"getProfileInfo",
+			"questionsAll",
+			"all(",
+			"editor",
+			"html'",
+			"Старый пароль указан не верно",
+			"mc2",
+			"university_id",
+			"cache",
+			"К сожалению, мы не нашли на этой странице вопрос(ы) из тестирования",
+			"roles",
+			"pages",
+			"6",
+			"email",
+			"phone",
+			"history",
+			"currentPage",
+			"count_used",
+			"$value->ext_return",
+			"\n",
+			" ",
+			"\"",
+			"matches",
+			"count",
+			"test",
+			"answer",
+			"managerCreate",
+			"name",
+			"bs.",
+			"workingTimeModal",
+			"managerCreateModal",
+			"xml",
+			"htmlembedded",
+			"javascript",
+			"html",
+			"access_token",
+			"univer",
+			"html",
+			"value",
+			"ext_answers",
+			"id_show_answer",
+			"test_ids",
+			"$request->input('html')",
+			"with",
+			"price",
+			"tests",
+			"price",
+			"type",
+			"price",
+			"university",
+			"dd",
+			"test",
+			"javascript",
+			"id=\"html\"",
+			"mc2",
+			"htmlmixed",
+			"markdown",
+			"ChangeMail",
+			"Hash",
+			"ошибка",
+			"pages",
+			"sectionsAll",
+			"sub_sections",
+			"questions",
+			"price",
+			"pricelist"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/sergey/dev/coddy"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1531,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1481,
+								1481
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1163.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1634,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								608,
+								608
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 114.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/dev/c7m/c7mus.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 34.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 724.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,151 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+body {
+	background-color: #fbe8bd;
+}
+
+h1 {
+	text-align: center;
+	color: #fbe8bd;
+	background-color: #a2774c;
+}
+
+h2 {
+	text-align: center;
+	color: #e7f3ee;
+	background-color: #dcae56;
+}
+
+.main {
+	max-width: 1000px;
+	margin: auto;
+	background-color: #ecfcff;
+	border: 1px solid #7e5535;
+}
+
+.items {
+	background-color: #fff;
+	display: flex;
+	width: 100%;
+	max-width: 1000px;
+	margin: auto;
+	/*box-shadow: 0 0 10px 1px grey;*/
+	flex-wrap: wrap;
+}
+
+.item {
+	/*голубые блоки*/
+	max-height: 265px;
+	max-width: 239px;
+	width: calc(25% - 10px);
+	height: calc(95vw / 4 / 16 * 9);
+	background-color: dodgerblue;
+	margin: 5px;
+	opacity: 0.5;
+
+	background-position: center;
+	background-size: cover;
+}
+
+p {
+	color: red;
+	padding: 10px 20px;
+	font-weight: bold;/*текст: жирный*/
+	font-size: 28px;
+}
+
+a {
+	width: 176px;
+	height: 200px;
+	display: inline-block;
+	margin: 10px;
+	opacity: 0.5;
+	text-decoration: none;
+	color: blue;
+}
+
+/*:hover - срабатывает только при наведении мыши*/
+a.item:hover {
+	box-shadow: 3px 3px 3px 3px grey;
+	transition: transform 0.5s linear;
+	opacity: 1;
+	transform: rotate(720deg) scale(1.5);
+	z-index: 100;
+}
+
+a.item:visited {
+	border-color: #7e5535;
+}
+
+.item_img {
+	max-height: 265px;
+	max-width: 239px;
+	width: 100%;
+	height: calc(95vw / 4 / 16 * 9);
+}
+
+.item_description {
+	display: none;
+	background-color: #7e5535;
+	color: white;
+	text-align: center;
+}
+
+a:hover .item_description {
+	display: block;
+}
+
+@media all and (max-width: 320px) {
+	.item {
+		max-width: initial;
+		max-height: inherit;
+		width: 100%;
+		height: calc(95vw / 16 * 9);
+	}
+    .item_img {
+    	max-width: 100%;
+    	width: 100%;
+		height: calc(95vw / 16 * 9);
+    }
+}
+@media all and (max-width: 480px) and  (min-width:321px ) {
+	.item {
+		max-width: 265px;
+		max-height: 490;
+		width: calc(50% - 10px);
+		height: calc(95vw / 2 / 16 * 9);
+	}
+    .item_img {
+    	max-width: 100%;
+    	width: 100%;
+		height: calc(95vw / 2 / 16 * 9);
+    }
+}
+@media all and (max-width: 768px) and (min-width:481px) {
+	.item {
+		max-width: 265px;
+		max-height: 490;
+		width: calc(100% / 3 - 10px);
+		height: calc(95vw / 3 / 16 * 9);
+	}
+    .item_img {
+    	max-width: 100%;
+    	width: 100%;
+		height: calc(95vw / 3 / 16 * 9);
+    }
+} 
+ footer {
+ 	background-color: #a2774c;
+ 	padding: 10px;
+ }
+ footer a {
+ 	height: 20px;
+ 	font-weight: bold;
+ }
+
